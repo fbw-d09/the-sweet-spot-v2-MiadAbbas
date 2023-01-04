@@ -1,0 +1,71 @@
+#header {
+    
+    width: 100px;
+    height: 50px;
+    object-fit: cover;
+}
+h1 {
+    background-color: #f58ea0;
+    color: #dad8d8;
+}
+.gray {
+    background-color: #dad8d8;
+    color: #f112f1;
+}
+#pink {
+    background-color: hotpink;
+}
+.gelb {
+    background-color: #ebf64d;
+}
+.gelb:hover {
+    color: rgb(9, 213, 213);
+}
+.bild-rund {
+  
+ width: 100px;
+ float: left;
+ border-radius: 50%;
+ 
+ border: 6px yellow solid;
+}
+.bild-rund1 {
+border-radius: 50%; 
+ width: 100px;
+ float: right;
+border: 6px rgb(9, 213, 213) solid;
+}
+.bild-rund2 {
+    border-radius: 50%;
+    width: 100px;
+    float: left;
+    border: 6px solid palevioletred;
+}
+div {
+    background-color: rgb(9, 213, 213);
+}
+div:hover {
+    background-color: #ebf64d;
+}
+a:active {
+    background-color: palevioletred;
+    color: #dad8d8;
+}
+.blau {
+    color: rgb(9, 213, 213);
+}
+#lolly {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    
+}
+#rose:hover {
+background-color: rgb(243, 146, 178);
+}
+.main-page {
+    color: #f112f1;
+}
+#rose li {
+    list-style: circle;
+}
